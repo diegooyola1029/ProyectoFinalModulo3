@@ -1,0 +1,4 @@
+com\devsenior\taskmanager\model\Tarea.class
+com\devsenior\taskmanager\service\TaskManager.class
+com\devsenior\taskmanager\exception\TareaNoEncontradaException.class
+com\devsenior\taskmanager\Main.class
